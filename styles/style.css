@@ -19,6 +19,7 @@
     color: white;
     padding: 12px 36px;
     border-radius: 5px;
+    border: none;
 
 }
 
@@ -41,4 +42,22 @@ nav{
 }
 nav ul li{
     list-style: none;
+}
+/* banner styles */
+.banner-title{
+font-size: 65px;
+font-weight: bold;
+}
+.banner-content{
+    max-width: 905px;
+    max-height: 237px;
+    text-align: center;
+    
+}
+.banner{
+width: 50%;
+  margin: 0 auto;
+}
+.head{
+    background-image: url(/Assets/Hero-bg.png);
 }
