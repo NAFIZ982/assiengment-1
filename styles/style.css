@@ -84,4 +84,29 @@ main{
    max-width: 1140px;
    margin: 0 auto; 
 }
+.thirdb{
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+}
+.item-tit{
+    font-size: 80px;
+    font-weight: bold;
+    color:#4E47FF ;
+}
+.item-ds{
+    font-size: 20px;
+    font-weight: 400;
+    color:#000000 ;
+}
+.items{
+    display: flex;
+    justify-content: space-around;
+}
+.banner3{
+    max-width: 1140px;
+    background-color: #b6b6e8;
+    border-radius: 15px;
+    margin-top: 16px;
+}
 
