@@ -141,5 +141,37 @@ main{
     border-radius:48px ;
     margin-top: 20px;
 }
+.fotter-bg{
+    max-width: 1140px;
+    max-height: 630px;
+    display: flex;
+    background-color: #c0dcec;
+    margin: 0 auto;
+}
+.tit-6{
+    font-size: 97px;
+    font-weight: bold;
+}
+.column{
+    width: 50%;
+}
+footer input[type="text"]{
+    height: 70px;
+    width: 490px;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 20px;
+    border: none;
+    background-color: white;
+}
+footer textarea{
+  height: 135px;
+  width: 490px;
+  background-color: white;
+  border-radius: 10px; 
+  margin-bottom: 20px; 
+  display: block;
+}
+
 
 
