@@ -122,5 +122,24 @@ main{
     display: flex;
     gap: 24px;
 }
+.tit-5{
+    font-size: 50px;
+    font-weight: bold;
+}
+.fif-des{
+      font-size: 20px;
+    font-weight: 400;
+    color:#000000 ;
+}
+.fif-banner{
+    max-width: 1140px;
+    padding: 150px 70px;
+    text-align: center;
+    background-color:#FFFFFF ;
+}
+.img55{
+    border-radius:48px ;
+    margin-top: 20px;
+}
 
 
